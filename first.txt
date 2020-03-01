@@ -1,3 +1,1 @@
-hello 大家好，我们一起学习git版本管理工具
-
-this is first
+大家一起学习Git
